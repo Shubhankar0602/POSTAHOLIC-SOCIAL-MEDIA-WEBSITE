@@ -1,5 +1,4 @@
 <h1>POSTAHOLIC-Addicted to posts?You've come to the right place!!</h1>
-<p align="center"><img src="https://raw.githubusercontent.com/vijayjoshi16/POSTAHOLIC-SOCIAL-MEDIA-WEBSITE/main/client/public/logo.png"/></p>
 <h2>This is a social media website deployed on Heroku, built with MERN Stack, which currently has the features :</h2>
 <ul>
 <li>SignUp</li>
